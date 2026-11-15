@@ -1,9 +1,1 @@
-[
-  { "id": 1, "name": "Iphone 11 Mini", "price": 1000 },
-  { "id": 3, "name": "Mac Mini M4", "price": 2600 },
-  { "id": 4, "name": "Asus ROG laptop", "price": 4000 },
-  { "id": 5, "name": "Samsung phone", "price": 800 },
-  { "id": 1794747752802, "name": "I Pad 6", "price": 1600 },
-  { "id": 1794747863305, "name": "Macbook Pro", "price": 2600 },
-  { "id": 1794752112633, "name": "Iphone 18 Pro Max", "price": 2200 }
-]
+[{"id":1,"name":"Iphone 11 Mini","price":1000},{"id":3,"name":"Mac Mini M4","price":2600},{"id":4,"name":"Asus ROG laptop","price":4000},{"id":5,"name":"Samsung phone","price":800},{"id":1794747752802,"name":"I Pad 6","price":1600},{"id":1794747863305,"name":"Macbook Pro","price":2600}]
