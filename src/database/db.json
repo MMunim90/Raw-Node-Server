@@ -1,6 +1,5 @@
 [
   { "id": 1, "name": "Iphone 11 Mini", "price": 1000 },
-  { "id": 2, "name": "Dell laptop", "price": 900 },
   { "id": 3, "name": "Mac Mini M4", "price": 2600 },
   { "id": 4, "name": "Asus ROG laptop", "price": 4000 },
   { "id": 5, "name": "Samsung phone", "price": 800 },
